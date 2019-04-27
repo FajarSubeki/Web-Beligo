@@ -17,7 +17,6 @@ kasir, dan manager yang memliki tugas berbeda.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33746018/56844614-49661a00-68dd-11e9-9c9b-0c6cf77ee4ac.PNG" align="middle" />
 </p>
->
 # Laporan barang per periode manager
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33746018/56844623-70245080-68dd-11e9-9a33-535d9abda53c.PNG" align="middle" />
